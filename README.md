@@ -1,3 +1,3 @@
-Una calculadora no funcional para practicar css y sass
+Una calculadora no funcional para practicar sass
 -----------------------------------------
 https://santiyelmini.github.io/Calculadora-estilo/
